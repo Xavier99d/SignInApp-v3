@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">AllTheRecipes</string>
+  <string name="thumbnail">thumbnail</string>
+    <string name="title_activity_kid_info">KidInfoActivity</string>
+</resources>
